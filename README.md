@@ -18,13 +18,14 @@ El repositorio modela la gestión de una óptica. Aquí se resumen los puntos cl
 | Clientes      | Nombre, dirección, teléfono, correo electrónico, fecha de registro. Al registrar un nuevo cliente, almacenar quién lo recomendó. |
 | Ventas        | Registrar el empleado que realizó la venta y definir un período de tiempo.                                                       |
 
-### Queries de Verificación Óptica:
+### Queries de verificación Optica:
 
 1. Lista el total de compras de un cliente.
 2. Lista las diferentes gafas que ha vendido un empleado durante un año.
 3. Lista los diferentes proveedores que han suministrado gafas vendidas con éxito para la óptica.
 
-Para realizar estas verificaciones, puedes encontrar los scripts de los queries en el directorio [nivel-1/1-optica/scripts](./nivel-1/1-optica/scripts). Consulta estos scripts para verificar que el diseño es correcto.
+> [!NOTE]
+> Para realizar estas verificaciones, puedes encontrar los scripts de los queries en el directorio [nivel-1/1-optica/scripts](./nivel-1/1-optica/scripts). Consulta estos scripts para verificar que el diseño es correcto.
 
 ## Nivel 1 - Pizzería
 
@@ -38,12 +39,13 @@ Este nivel se enfoca en el diseño de una web para pedidos de una pizzeria. Punt
 | Categorías de Pizzas | Identificador único y nombre.                                             |
 | Empleados            | Nombre, apellidos, NIF, teléfono, rol (cuiner/a o repartidor/a).          |
 
-### Queries de Verificación Pizzería:
+### Queries de verificación Pizzería:
 
 1. Lista cuántos productos de tipo "Bebidas" se han vendido en una determinada localidad.
 2. Lista cuántas órdenes ha realizado un determinado empleado.
 
-Al igual que en Óptica, los scripts correspondientes están disponibles en el directorio [nivel-1/2-pizzeria/scripts](./nivel-1/2-pizzeria/scripts). Consulta estos scripts para verificar que el diseño es correcto.
+> [!NOTE]
+> Para realizar estas verificaciones, puedes encontrar los scripts de los queries en el directorio [nivel-1/2-pizzeria/scripts](./nivel-1/2-pizzeria/scripts). Consulta estos scripts para verificar que el diseño es correcto.
 
 ## Nivel 2 - YouTube
 
