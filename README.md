@@ -7,7 +7,7 @@ Desarrollo de estructuras de bases de datos donde se abordan conceptos y prácti
 > [!IMPORTANT]  
 > Si ya existe una base de datos con el mismo nombre, se recomienda cambiar el nombre de la base de datos en los scripts (schema, inserts, querys) o eliminar la base de datos existente.
 
-## Nivel 1 - Óptica
+## Nivel 1 - Optica
 
 El repositorio modela la gestión de una óptica. Aquí se resumen los puntos clave:
 
